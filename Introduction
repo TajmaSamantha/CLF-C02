@@ -15,6 +15,51 @@ Cloud computing refers to the on-demand delivery of IT resources via the Interne
 - **Availability Zones**: Isolated data centers within a region.
 - **Edge Locations**: Locations used for content delivery.
 
+### AWS Cloud Adoption Framework (AWS CAF)
+
+The AWS Cloud Adoption Framework (AWS CAF) helps organizations understand how cloud adoption transforms the way they work and provides a structure to identify and address gaps in skills and processes. It offers guidance across six perspectives:
+
+- **Business**: Aligns IT strategy with business goals. 
+Also helps ensure that your cloud investments accelerate
+your digital transformation ambitions and business outcomes. Common
+stakeholders include chief executive officer (CEO), chief financial officer
+(CFO), chief operations officer (COO), chief information officer (CIO), and
+chief technology officer (CTO).
+
+- **People**: Focuses on organizational change management and the skills needed.
+Serves as a bridge between technology and business,
+accelerating the cloud journey to help organizations more rapidly evolve
+to a culture of continuous growth, learning, and where change becomes
+business-as-normal, with focus on culture, organizational structure,
+leadership, and workforce. Common stakeholders include CIO, COO, CTO,
+cloud director, and cross-functional and enterprise-wide leaders.
+
+- **Governance**: Ensures IT governance, risk management, and compliance.
+Helps you orchestrate your cloud initiatives while
+maximizing organizational benefits and minimizing transformation-related
+risks. Common stakeholders include chief transformation officer, CIO, CTO,
+CFO, chief data officer (CDO), and chief risk officer (CRO).
+
+- **Platform**: Focuses on cloud infrastructure and services.
+Helps you build an enterprise-grade, scalable, hybrid
+cloud platform; modernize existing workloads; and implement new cloud-
+native solutions. Common stakeholders include CTO, technology leaders,
+architects, and engineers.
+
+- **Security**: Ensures cloud security and compliance.
+Helps you achieve the confidentiality, integrity, and
+availability of your data and cloud workloads. Common stakeholders include
+chief information security officer (CISO), chief compliance officer (CCO),
+internal audit leaders, and security architects and engineers.
+
+- **Operations**: Defines how IT operations are managed in the cloud.
+Helps ensure that your cloud services are delivered
+at a level that meets the needs of your business. Common stakeholders
+include infrastructure and operations leaders, site reliability engineers,
+and information technology service managers
+
+
+
 ## Benefits of AWS
 
 ### Scalability and Flexibility
@@ -40,6 +85,8 @@ AWS allows you to scale resources up or down based on demand.
 | Sustainability         | The ability to continually improve sustainability impacts by reducing energy consumption and increasing efficiency across all components of a workload by maximizing the benefits from the provisioned resources and minimizing the total resources required.           |
 
 Source: https://docs.aws.amazon.com/wellarchitected/latest/framework/definitions.html
+
+
 
 ### Cost Management
 With AWS’s pay-as-you-go model, you only pay for the resources you use.
