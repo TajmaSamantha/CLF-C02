@@ -1,1 +1,83 @@
+# Introduction to AWS
+
+## Overview of AWS
+
+Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally.
+
+
+## Key Concepts and Terminology
+
+### Cloud Computing
+Cloud computing refers to the on-demand delivery of IT resources via the Internet with pay-as-you-go pricing.
+
+### AWS Global Infrastructure
+- **Regions**: Geographical areas with multiple Availability Zones.
+- **Availability Zones**: Isolated data centers within a region.
+- **Edge Locations**: Locations used for content delivery.
+
+## Benefits of AWS
+
+### Scalability and Flexibility
+AWS allows you to scale resources up or down based on demand.
+
+### Cost Management
+With AWS’s pay-as-you-go model, you only pay for the resources you use.
+
+### Security
+AWS provides robust security measures and complies with various global standards.
+
+### Global Reach
+AWS serves customers in almost every country around the world.
+
+## AWS Shared Responsibility Model
+
+### Customer Responsibility
+Security *in* the cloud, including data, applications, and IAM.
+
+### AWS Responsibility
+Security *of* the cloud, covering infrastructure, networking, and facilities.
+
+## Key AWS Services Categories
+
+### Compute
+- **Amazon EC2**
+- **AWS Lambda**
+- **Elastic Beanstalk**
+
+### Storage
+- **Amazon S3**
+- **Amazon EBS**
+- **Amazon Glacier**
+
+### Database
+- **Amazon RDS**
+- **Amazon DynamoDB**
+- **Amazon Aurora**
+
+### Networking and Content Delivery
+- **Amazon VPC**
+- **Amazon CloudFront**
+- **Amazon Route 53**
+
+## Common Use Cases
+
+### Web Hosting
+Hosting websites and applications on AWS infrastructure.
+
+### Data Backup and Disaster Recovery
+Using AWS services for backup solutions and disaster recovery.
+
+### Big Data Analytics
+Utilizing AWS's analytics services for processing large data sets.
+
+### Machine Learning
+Building, training, and deploying machine learning models with AWS.
+
+## AWS Free Tier
+
+### Overview
+The AWS Free Tier offers free usage of certain AWS services for new users.
+
+### Services Included
+Popular services under the Free Tier include Amazon EC2, Amazon S3, and Amazon RDS.
 
